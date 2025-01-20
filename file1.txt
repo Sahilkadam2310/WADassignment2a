@@ -1,3 +1,3 @@
 Name:Sahil Kadanm
-Class:IT
-Subject:Lp-II Web Application Development
+Class:IS
+Subject:Lp-II Web Application DevelopmenS
